@@ -1,8 +1,5 @@
-# React + Vite
+Spearheaded the creation of an interactive forum platform, employing React, JavaScript, and CSS for a visually appealing and user-friendly frontend.
+Developed RESTful API endpoints to manage user-generated content, enabling functionalities like post creation, editing, and deletion.
+Implemented JSON Web Tokens (JWT) for secure user authentication and authorization, enhancing data security.
+Collaborated closely with UX/UI designers to optimize the platform’s user interface, resulting in a seamless and engaging user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
